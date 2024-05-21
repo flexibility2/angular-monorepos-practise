@@ -1,11 +1,16 @@
 # angular-monorepos-practise
 
-## backend
+## Backend
 
-.NET 7
+- .NET 7
+- Azure blob
 
-## frontend
+## Frontend
 
 - Angular 15
 - Node 16
 - Nx 15
+
+## Authentication
+
+- Authon0: https://auth0.com/
