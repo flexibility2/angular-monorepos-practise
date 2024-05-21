@@ -3,6 +3,7 @@
 ## Backend
 
 - .NET 7
+- SQLite 7
 - Azure blob
 
 ## Frontend
