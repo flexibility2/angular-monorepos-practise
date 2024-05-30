@@ -17,3 +17,4 @@
 - RxJs
 
 ## Frontend Architecture
+![alt text](https://github.com/flexibility2/angular-monorepos-practise/blob/master/img/frontend.png?raw=true)
