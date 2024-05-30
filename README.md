@@ -16,6 +16,4 @@
 - NgRx
 - RxJs
 
-## Authentication
-
-- Auth0
+## Frontend Architecture
